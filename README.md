@@ -4,6 +4,6 @@ I'm currently in CS @ University of Illinois Chicago and building toward a caree
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,pytorch,sklearn,supabase,docker,git,linux,nixos,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,sklearn,css,ts,supabase,docker,git,linux,nix,vscode)](https://skillicons.dev)
 
 ---
