@@ -1,4 +1,4 @@
-<p><samp>hey, i'm eddie 👋</samp></p>
+<h3><p><samp>hey, i'm eddie 👋</samp></p></h3>
 
 <p align="center">
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
