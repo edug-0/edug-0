@@ -4,26 +4,26 @@
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
 </p>
 
-<samp>welcome to my page. here's a quick look at what i'm up to:</samp>
+<samp>welcome! here's a quick look at what i'm up to:</samp>
 
 <samp>
 
 - doing computer vision research at uic
 - joining abbvie's business technology solutions team in summer 2027
-- first-gen cs student building tools for chicago's latino and first-gen community
+- first-gen cs student building tools and software in my freetime
 - board member at logica, member of shpe and colorstack
-- outside code, i fish and play games
+- outside of code, i'm probably fishing or playing games
 </samp>
 
 <h4><samp>projects</samp></h4>
 <table>
   <tr>
     <td width="170" valign="top"><samp><a href="https://github.com/edug-0/Corazon">corazón</a></samp></td>
-    <td valign="top"><samp>bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources.</samp></td>
+    <td valign="top"><samp>a bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources.</samp></td>
   </tr>
   <tr>
     <td width="170" valign="top"><samp><a href="https://github.com/edug-0/IntoTheUnknown">into the unknown</a></samp></td>
-    <td valign="top"><samp>nasa space apps 2026 web app (team logica) that plays spherex telescope images of any sky patch as a flipbook, so moving stars stand out. i led the frontend: orrery home, sky view, guided tour.</samp></td>
+    <td valign="top"><samp>nasa space apps 2026 web app that plays spherex telescope images of any sky patch as a flipbook. i led the frontend: orrery home, sky view, guided tour.</samp></td>
   </tr>
 </table>
 
