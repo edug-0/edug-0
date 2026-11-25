@@ -22,7 +22,6 @@
 <samp>
 
 | | |
-|---|---|
 | [corazón](https://github.com/edug-0/Corazon) | bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources. |
 | [into the unknown](https://github.com/edug-0/IntoTheUnknown) | nasa space apps 2026 web app (team logica) that plays spherex telescope images of any sky patch as a flipbook, so moving stars stand out. i led the frontend: orrery home, sky view, guided tour |
 
