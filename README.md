@@ -13,7 +13,7 @@
 - ml research intern @ uic, working on computer vision
 - joining abbvie's business technology solutions team in summer 2027 as a swe intern
 - first-gen cs student building tools for chicago's latino and first-gen community
-- junior board at logica, member of shpe and colorstack, hitec scholar
+- board member at logica, member of shpe and colorstack
 - outside code, i fish and play games
 </samp>
 
