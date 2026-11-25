@@ -4,14 +4,10 @@
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
 </p>
 
-<p align="center">
-  <samp>ml research intern @ uic · incoming swe intern @ abbvie</samp>
-</p>
-
 <samp>
 
-- ml research intern @ uic, working on computer vision
-- joining abbvie's business technology solutions team in summer 2027 as a swe intern
+- doing computer vision research at uic
+- joining abbvie's business technology solutions team in summer 2027
 - first-gen cs student building tools for chicago's latino and first-gen community
 - board member at logica, member of shpe and colorstack
 - outside code, i fish and play games
