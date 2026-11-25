@@ -19,13 +19,16 @@
 
 <h4><samp>projects</samp></h4>
 
-<samp>
-
-| | |
-| [corazón](https://github.com/edug-0/Corazon) | bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources. |
-| [into the unknown](https://github.com/edug-0/IntoTheUnknown) | nasa space apps 2026 web app (team logica) that plays spherex telescope images of any sky patch as a flipbook, so moving stars stand out. i led the frontend: orrery home, sky view, guided tour |
-
-</samp>
+<table>
+  <tr>
+    <td width="170" valign="top"><samp><a href="https://github.com/edug-0/Corazon">corazón</a></samp></td>
+    <td valign="top"><samp>bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources.</samp></td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><samp><a href="https://github.com/edug-0/IntoTheUnknown">into the unknown</a></samp></td>
+    <td valign="top"><samp>nasa space apps 2026 web app (team logica) that plays spherex telescope images of any sky patch as a flipbook, so moving stars stand out. i led the frontend: orrery home, sky view, guided tour.</samp></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://skillicons.dev">
