@@ -4,13 +4,13 @@
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
 </p>
 
-<samp>welcome! here's a quick look at what i'm up to:</samp>
+<samp>welcome! here are some things that are ongoing right now:</samp>
 
 <samp>
 
-- doing computer vision research at uic
+- currently doing computer vision research at uic
 - joining abbvie's business technology solutions team in summer 2027
-- first-gen cs student building tools and software in my freetime
+- first-gen cs student building tools and software in my free time
 - board member at logica, member of shpe and colorstack
 - outside of code, i'm probably fishing or playing games
 </samp>
