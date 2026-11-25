@@ -4,7 +4,7 @@
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
 </p>
 
-<h4 align="center"><samp>welcome to my page. here's a quick look at what i'm up to.</samp></h4>
+<samp>welcome to my page. here's a quick look at what i'm up to:</samp>
 
 <samp>
 
@@ -15,12 +15,8 @@
 - outside code, i fish and play games
 </samp>
 
-<br>
-
+<h4><samp>projects</samp></h4>
 <table>
-  <tr>
-    <th colspan="2" align="center"><samp>projects</samp></th>
-  </tr>
   <tr>
     <td width="170" valign="top"><samp><a href="https://github.com/edug-0/Corazon">corazón</a></samp></td>
     <td valign="top"><samp>bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources.</samp></td>
