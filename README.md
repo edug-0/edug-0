@@ -4,6 +4,10 @@
   <img src="assets/lake.svg" alt="Pixel art nighttime lake scene" width="100%">
 </p>
 
+<p align="center">
+  <samp>welcome to my page. here's a quick look at what i'm up to.</samp>
+</p>
+
 <samp>
 
 - doing computer vision research at uic
@@ -13,9 +17,12 @@
 - outside code, i fish and play games
 </samp>
 
-<h4><samp>projects</samp></h4>
+<br>
 
 <table>
+  <tr>
+    <th colspan="2" align="left"><samp>projects</samp></th>
+  </tr>
   <tr>
     <td width="170" valign="top"><samp><a href="https://github.com/edug-0/Corazon">corazón</a></samp></td>
     <td valign="top"><samp>bilingual resource platform for latino communities, built at wildhacks 2026. i led the ai/ml side: five randomforest models and a llama 3.3 chatbot that answers from a database of local resources.</samp></td>
@@ -26,11 +33,16 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,sklearn,css,ts,supabase,docker,git,linux,nix,vscode" alt="Skills">
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <samp><a href="https://linkedin.com/in/eduardogalvan0">linkedin</a></samp>
