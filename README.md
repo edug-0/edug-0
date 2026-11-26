@@ -12,7 +12,7 @@
 - joining abbvie's business technology solutions team in summer 2027
 - first-gen cs student building tools and software in my free time
 - board member at logica, member of shpe and colorstack
-- outside of code, i'm probably fishing or playing games
+- outside of code, i'm probably fishing or playing games!
 </samp>
 
 <h4><samp>projects</samp></h4>
